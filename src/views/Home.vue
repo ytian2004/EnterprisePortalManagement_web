@@ -1,3 +1,4 @@
+// 主页
 <template>
   <div class="container">
     <el-carousel height="calc(100vh - 60px)">
